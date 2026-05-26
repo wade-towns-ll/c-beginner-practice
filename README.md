@@ -1,2 +1,2 @@
-# c-beginner-practice
-Showcasing understanding of beginner c language concepts
+# c-practice
+Showcasing understanding of beginner c language concepts and tiny projects.
